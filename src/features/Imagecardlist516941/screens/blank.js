@@ -306,9 +306,8 @@ const styles = StyleSheet.create({
   Text_10417_1092: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 16,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -325,9 +324,8 @@ const styles = StyleSheet.create({
   Text_10417_1093: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 8,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -366,9 +364,8 @@ const styles = StyleSheet.create({
   Text_10417_1096: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 16,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -385,9 +382,8 @@ const styles = StyleSheet.create({
   Text_10417_1097: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 8,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -447,9 +443,8 @@ const styles = StyleSheet.create({
   Text_10417_1101: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -466,9 +461,8 @@ const styles = StyleSheet.create({
   Text_10417_1102: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -485,9 +479,8 @@ const styles = StyleSheet.create({
   Text_10417_1103: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -547,9 +540,8 @@ const styles = StyleSheet.create({
   Text_10417_1107: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -566,9 +558,8 @@ const styles = StyleSheet.create({
   Text_10417_1108: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -585,9 +576,8 @@ const styles = StyleSheet.create({
   Text_10417_1109: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -647,9 +637,8 @@ const styles = StyleSheet.create({
   Text_10417_1113: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -666,9 +655,8 @@ const styles = StyleSheet.create({
   Text_10417_1114: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -685,9 +673,8 @@ const styles = StyleSheet.create({
   Text_10417_1115: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -747,9 +734,8 @@ const styles = StyleSheet.create({
   Text_10417_1119: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -766,9 +752,8 @@ const styles = StyleSheet.create({
   Text_10417_1120: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -785,9 +770,8 @@ const styles = StyleSheet.create({
   Text_10417_1121: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -847,9 +831,8 @@ const styles = StyleSheet.create({
   Text_10417_1125: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -866,9 +849,8 @@ const styles = StyleSheet.create({
   Text_10417_1126: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -885,9 +867,8 @@ const styles = StyleSheet.create({
   Text_10417_1127: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -947,9 +928,8 @@ const styles = StyleSheet.create({
   Text_10417_1131: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -966,9 +946,8 @@ const styles = StyleSheet.create({
   Text_10417_1132: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -985,9 +964,8 @@ const styles = StyleSheet.create({
   Text_10417_1133: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
-    fontWeight: "300",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -1017,9 +995,8 @@ const styles = StyleSheet.create({
   Text_10417_1135: {
     color: "rgba(0, 24, 72, 1)",
     fontSize: 26,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "left",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -1064,9 +1041,8 @@ const styles = StyleSheet.create({
   Text_10417_1138: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 13,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "center",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -1111,9 +1087,8 @@ const styles = StyleSheet.create({
   Text_10417_1141: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 13,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "center",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -1157,9 +1132,8 @@ const styles = StyleSheet.create({
   Text_10417_1144: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 13,
-    fontWeight: "500",
+    fontFamily: "Roboto-Regular",
     textAlign: "center",
-    fontStyle: "normal",
     letterSpacing: 0,
     textTransform: "none"
   },
@@ -1169,7 +1143,9 @@ const styles = StyleSheet.create({
 const mapStateToProps = state => {
   return {}
 }
+
 const mapDispatchToProps = () => {
   return {}
 }
+
 export default connect(mapStateToProps, mapDispatchToProps)(Blank)
