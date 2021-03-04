@@ -37,9 +37,11 @@ const styles = StyleSheet.create({
 const mapStateToProps = state => {
   return {}
 }
+
 const mapDispatchToProps = () => {
   return {}
 }
+
 export default {
   title: "%%export%%",
   navigator: connect(mapStateToProps, mapDispatchToProps)(Blank)
