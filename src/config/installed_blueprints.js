@@ -13,5 +13,10 @@ export const installed_blueprints = [
     name: "Imagecardlist516943",
     human_name: "Imagecardlist516943",
     access_route: "Imagecardlist516943"
+  },
+  {
+    name: "BlankScreen16",
+    human_name: "BlankScreen16",
+    access_route: "BlankScreen16"
   }
 ]

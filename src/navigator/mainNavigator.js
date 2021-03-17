@@ -10,8 +10,10 @@ import SideMenu from "./sideMenu"
  * new navigators can be imported here
  */ import BlankScreen010890 from "../features/BlankScreen010890/navigator"
 import Imagecardlist516943 from "../features/Imagecardlist516943/navigator"
+import BlankScreen16 from "../features/BlankScreen16/navigator"
 
 const AppNavigator = {
+  BlankScreen16: { screen: BlankScreen16 },
   Imagecardlist516943: { screen: Imagecardlist516943 },
   //@BlueprintNavigationInsertion
 
