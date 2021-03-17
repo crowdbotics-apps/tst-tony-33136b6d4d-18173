@@ -34,6 +34,7 @@ export class Blank extends React.Component {
             }}
             style={styles.ImageBackground_10417_1090}
           />
+
           <View style={styles.View_10417_1091} />
           <View style={styles.View_10417_1092}>
             <Text style={styles.Text_10417_1092}>
@@ -53,6 +54,7 @@ export class Blank extends React.Component {
             }}
             style={styles.ImageBackground_10417_1095}
           />
+
           <View style={styles.View_10417_1096}>
             <Text style={styles.Text_10417_1096}>
               Euro 2020 qualification latest: Italy clinch their spot last
@@ -72,6 +74,7 @@ export class Blank extends React.Component {
             }}
             style={styles.ImageBackground_10417_1100}
           />
+
           <View style={styles.View_10417_1101}>
             <Text style={styles.Text_10417_1101}>
               England’s faith in protocol was rewarded, now UEFA gets tough
@@ -96,6 +99,7 @@ export class Blank extends React.Component {
             }}
             style={styles.ImageBackground_10417_1106}
           />
+
           <View style={styles.View_10417_1107}>
             <Text style={styles.Text_10417_1107}>
               Why Gladonia won’t go unbeaten in the Premier League
@@ -120,6 +124,7 @@ export class Blank extends React.Component {
             }}
             style={styles.ImageBackground_10417_1112}
           />
+
           <View style={styles.View_10417_1113}>
             <Text style={styles.Text_10417_1113}>
               Smith goal gives Atletico 1-0 win over Manchester
@@ -144,6 +149,7 @@ export class Blank extends React.Component {
             }}
             style={styles.ImageBackground_10417_1118}
           />
+
           <View style={styles.View_10417_1119}>
             <Text style={styles.Text_10417_1119}>2h • Alden Johngon</Text>
           </View>
@@ -168,6 +174,7 @@ export class Blank extends React.Component {
             }}
             style={styles.ImageBackground_10417_1124}
           />
+
           <View style={styles.View_10417_1125}>
             <Text style={styles.Text_10417_1125}>
               Why Gladonia won’t go unbeaten in the Premier League
@@ -192,6 +199,7 @@ export class Blank extends React.Component {
             }}
             style={styles.ImageBackground_10417_1130}
           />
+
           <View style={styles.View_10417_1131}>
             <Text style={styles.Text_10417_1131}>
               Smith goal gives Atletico 1-0 win over Manchester
@@ -248,6 +256,7 @@ const styles = StyleSheet.create({
     left: wp("0%"),
     backgroundColor: "rgba(0, 0, 0, 0)"
   },
+
   View_10417_1089: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -259,6 +268,7 @@ const styles = StyleSheet.create({
     left: wp("3.4666666666666663%"),
     top: 154
   },
+
   ImageBackground_10417_1090: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -275,6 +285,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 10,
     borderBottomRightRadius: 10
   },
+
   View_10417_1091: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -290,6 +301,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   View_10417_1092: {
     width: wp("83.17096354166667%"),
     minWidth: wp("83.17096354166667%"),
@@ -300,6 +312,7 @@ const styles = StyleSheet.create({
     left: wp("4.011461385091145%"),
     top: 107
   },
+
   Text_10417_1092: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 16,
@@ -308,6 +321,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1093: {
     width: wp("48.93982747395834%"),
     minWidth: wp("48.93982747395834%"),
@@ -318,6 +332,7 @@ const styles = StyleSheet.create({
     left: wp("4.011461385091145%"),
     top: 166
   },
+
   Text_10417_1093: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 8,
@@ -326,6 +341,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1094: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -337,6 +353,7 @@ const styles = StyleSheet.create({
     left: wp("3.733333333333334%"),
     top: 810
   },
+
   ImageBackground_10417_1095: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -348,6 +365,7 @@ const styles = StyleSheet.create({
     left: wp("0%"),
     top: 0
   },
+
   View_10417_1096: {
     width: wp("83.17096354166667%"),
     minWidth: wp("83.17096354166667%"),
@@ -358,6 +376,7 @@ const styles = StyleSheet.create({
     left: wp("4.01145528157552%"),
     top: 107
   },
+
   Text_10417_1096: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 16,
@@ -366,6 +385,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1097: {
     width: wp("48.93982747395834%"),
     minWidth: wp("48.93982747395834%"),
@@ -376,6 +396,7 @@ const styles = StyleSheet.create({
     left: wp("4.01145528157552%"),
     top: 166
   },
+
   Text_10417_1097: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 8,
@@ -384,6 +405,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1098: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -395,6 +417,7 @@ const styles = StyleSheet.create({
     left: wp("3.4666666666666663%"),
     top: 366
   },
+
   View_10417_1099: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -411,6 +434,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   ImageBackground_10417_1100: {
     width: wp("29.333333333333332%"),
     minWidth: wp("29.333333333333332%"),
@@ -427,6 +451,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   View_10417_1101: {
     width: wp("56.266666666666666%"),
     minWidth: wp("56.266666666666666%"),
@@ -437,6 +462,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 17
   },
+
   Text_10417_1101: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
@@ -445,6 +471,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1102: {
     width: wp("51.733333333333334%"),
     minWidth: wp("51.733333333333334%"),
@@ -455,6 +482,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 91.4375
   },
+
   Text_10417_1102: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
@@ -463,6 +491,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1103: {
     width: wp("52.800000000000004%"),
     minWidth: wp("52.800000000000004%"),
@@ -473,6 +502,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 55
   },
+
   Text_10417_1103: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
@@ -481,6 +511,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1104: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -492,6 +523,7 @@ const styles = StyleSheet.create({
     left: wp("3.4666666666666663%"),
     top: 514
   },
+
   View_10417_1105: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -508,6 +540,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   ImageBackground_10417_1106: {
     width: wp("29.333333333333332%"),
     minWidth: wp("29.333333333333332%"),
@@ -524,6 +557,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   View_10417_1107: {
     width: wp("56.266666666666666%"),
     minWidth: wp("56.266666666666666%"),
@@ -534,6 +568,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 17
   },
+
   Text_10417_1107: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
@@ -542,6 +577,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1108: {
     width: wp("51.733333333333334%"),
     minWidth: wp("51.733333333333334%"),
@@ -552,6 +588,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 91.4375
   },
+
   Text_10417_1108: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
@@ -560,6 +597,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1109: {
     width: wp("52.800000000000004%"),
     minWidth: wp("52.800000000000004%"),
@@ -570,6 +608,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 55
   },
+
   Text_10417_1109: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
@@ -578,6 +617,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1110: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -589,6 +629,7 @@ const styles = StyleSheet.create({
     left: wp("3.2%"),
     top: 662
   },
+
   View_10417_1111: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -605,6 +646,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   ImageBackground_10417_1112: {
     width: wp("29.333333333333332%"),
     minWidth: wp("29.333333333333332%"),
@@ -621,6 +663,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   View_10417_1113: {
     width: wp("56.266666666666666%"),
     minWidth: wp("56.266666666666666%"),
@@ -631,6 +674,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 17
   },
+
   Text_10417_1113: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
@@ -639,6 +683,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1114: {
     width: wp("51.733333333333334%"),
     minWidth: wp("51.733333333333334%"),
@@ -649,6 +694,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 91.4375
   },
+
   Text_10417_1114: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
@@ -657,6 +703,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1115: {
     width: wp("52.800000000000004%"),
     minWidth: wp("52.800000000000004%"),
@@ -667,6 +714,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 55
   },
+
   Text_10417_1115: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
@@ -675,6 +723,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1116: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -686,6 +735,7 @@ const styles = StyleSheet.create({
     left: wp("3.733333333333334%"),
     top: 1022
   },
+
   View_10417_1117: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -702,6 +752,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   ImageBackground_10417_1118: {
     width: wp("29.333333333333332%"),
     minWidth: wp("29.333333333333332%"),
@@ -718,6 +769,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   View_10417_1119: {
     width: wp("51.733333333333334%"),
     minWidth: wp("51.733333333333334%"),
@@ -728,6 +780,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 91.4375
   },
+
   Text_10417_1119: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
@@ -736,6 +789,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1120: {
     width: wp("52.800000000000004%"),
     minWidth: wp("52.800000000000004%"),
@@ -746,6 +800,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 55
   },
+
   Text_10417_1120: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
@@ -754,6 +809,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1121: {
     width: wp("56.266666666666666%"),
     minWidth: wp("56.266666666666666%"),
@@ -764,6 +820,7 @@ const styles = StyleSheet.create({
     left: wp("34.13333333333333%"),
     top: 16
   },
+
   Text_10417_1121: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
@@ -772,6 +829,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1122: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -783,6 +841,7 @@ const styles = StyleSheet.create({
     left: wp("3.733333333333334%"),
     top: 1170
   },
+
   View_10417_1123: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -799,6 +858,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   ImageBackground_10417_1124: {
     width: wp("29.333333333333332%"),
     minWidth: wp("29.333333333333332%"),
@@ -815,6 +875,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   View_10417_1125: {
     width: wp("56.266666666666666%"),
     minWidth: wp("56.266666666666666%"),
@@ -825,6 +886,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 17
   },
+
   Text_10417_1125: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
@@ -833,6 +895,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1126: {
     width: wp("51.733333333333334%"),
     minWidth: wp("51.733333333333334%"),
@@ -843,6 +906,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 91.4375
   },
+
   Text_10417_1126: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
@@ -851,6 +915,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1127: {
     width: wp("52.800000000000004%"),
     minWidth: wp("52.800000000000004%"),
@@ -861,6 +926,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 55
   },
+
   Text_10417_1127: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
@@ -869,6 +935,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1128: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -880,6 +947,7 @@ const styles = StyleSheet.create({
     left: wp("3.4666666666666663%"),
     top: 1318
   },
+
   View_10417_1129: {
     width: wp("93.33333333333333%"),
     minWidth: wp("93.33333333333333%"),
@@ -896,6 +964,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   ImageBackground_10417_1130: {
     width: wp("29.333333333333332%"),
     minWidth: wp("29.333333333333332%"),
@@ -912,6 +981,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 20,
     borderBottomRightRadius: 20
   },
+
   View_10417_1131: {
     width: wp("56.266666666666666%"),
     minWidth: wp("56.266666666666666%"),
@@ -922,6 +992,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 17
   },
+
   Text_10417_1131: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 11,
@@ -930,6 +1001,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1132: {
     width: wp("51.733333333333334%"),
     minWidth: wp("51.733333333333334%"),
@@ -940,6 +1012,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 91.4375
   },
+
   Text_10417_1132: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 8,
@@ -948,6 +1021,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1133: {
     width: wp("52.800000000000004%"),
     minWidth: wp("52.800000000000004%"),
@@ -958,6 +1032,7 @@ const styles = StyleSheet.create({
     left: wp("34.4%"),
     top: 55
   },
+
   Text_10417_1133: {
     color: "rgba(51, 51, 51, 1)",
     fontSize: 10,
@@ -966,6 +1041,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1134: {
     width: wp("100%"),
     minWidth: wp("100%"),
@@ -979,6 +1055,7 @@ const styles = StyleSheet.create({
     backgroundColor: "rgba(243, 245, 249, 1)",
     overflow: "hidden"
   },
+
   View_10417_1135: {
     width: wp("79.73333333333333%"),
     minWidth: wp("79.73333333333333%"),
@@ -989,6 +1066,7 @@ const styles = StyleSheet.create({
     left: wp("3.4666666666666663%"),
     top: 44
   },
+
   Text_10417_1135: {
     color: "rgba(0, 24, 72, 1)",
     fontSize: 26,
@@ -997,6 +1075,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1136: {
     width: wp("29.955025227864585%"),
     minWidth: wp("29.955025227864585%"),
@@ -1008,6 +1087,7 @@ const styles = StyleSheet.create({
     left: wp("3.4666666666666663%"),
     top: 100
   },
+
   View_10417_1137: {
     width: wp("29.955025227864585%"),
     minWidth: wp("29.955025227864585%"),
@@ -1025,6 +1105,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 100,
     borderBottomRightRadius: 100
   },
+
   View_10417_1138: {
     width: wp("29.955025227864585%"),
     minWidth: wp("29.955025227864585%"),
@@ -1035,6 +1116,7 @@ const styles = StyleSheet.create({
     left: wp("0%"),
     top: 0
   },
+
   Text_10417_1138: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 13,
@@ -1043,6 +1125,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1139: {
     width: wp("29.955025227864585%"),
     minWidth: wp("29.955025227864585%"),
@@ -1054,6 +1137,7 @@ const styles = StyleSheet.create({
     left: wp("34.85898844401042%"),
     top: 100
   },
+
   View_10417_1140: {
     width: wp("29.955025227864585%"),
     minWidth: wp("29.955025227864585%"),
@@ -1071,6 +1155,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 100,
     borderBottomRightRadius: 100
   },
+
   View_10417_1141: {
     width: wp("29.955025227864585%"),
     minWidth: wp("29.955025227864585%"),
@@ -1081,6 +1166,7 @@ const styles = StyleSheet.create({
     left: wp("0%"),
     top: 0
   },
+
   Text_10417_1141: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 13,
@@ -1089,6 +1175,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_10417_1142: {
     width: wp("29.955025227864585%"),
     minWidth: wp("29.955025227864585%"),
@@ -1100,6 +1187,7 @@ const styles = StyleSheet.create({
     left: wp("66.57830810546875%"),
     top: 100
   },
+
   View_10417_1143: {
     width: wp("29.955025227864585%"),
     minWidth: wp("29.955025227864585%"),
@@ -1116,6 +1204,7 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 100,
     borderBottomRightRadius: 100
   },
+
   View_10417_1144: {
     width: wp("29.955025227864585%"),
     minWidth: wp("29.955025227864585%"),
@@ -1126,6 +1215,7 @@ const styles = StyleSheet.create({
     left: wp("0%"),
     top: 0
   },
+
   Text_10417_1144: {
     color: "rgba(255, 255, 255, 1)",
     fontSize: 13,
@@ -1134,6 +1224,7 @@ const styles = StyleSheet.create({
     letterSpacing: 0,
     textTransform: "none"
   },
+
   View_2: { height: 1480 }
 })
 
